@@ -1,0 +1,25 @@
+body{
+    color: black;
+    background-color: aqua;
+    margin: 40px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.div-style{
+    border: 1px solid tomato;
+    padding: 40px;
+}
+p{
+    font-size: 30px;
+    width: auto;
+    height: 300px;
+}
+li{
+   display: inline;
+   text-align: center;
+   border: 1px solid salmon;
+   padding: 5px 20px;
+}
+li a {
+    text-decoration: none;
+}
